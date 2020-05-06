@@ -11,3 +11,7 @@ Go ingame and Launch the xex
 you can find most if not all the GSC files 
 
 https://pastebin.com/Drpy1A4b - SyGnUs Pastebin
+
+Credit:
+Davide - Help RME
+Gamer7112 - finding exploit originally 
